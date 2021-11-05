@@ -11,6 +11,9 @@
                 CSS, HTML, Bootstrap, PostgreSQL,
                 MongoDB, MongoDB Atlas  </li>
  
+  
+  
+<p>Actualmente estoy buscando mi primer oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.</p>
    
   
 </ul>
@@ -21,7 +24,6 @@
 
 
 
-<p>Actualmente estoy buscando mi primer oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.</p>
  <ul>
 <h4>📫 Contacto:</h4>
 <li>📧 <a href="https://www.linkedin.com/in/samuel-cantos-perez-4811a1208/"> LinkedIn </a> </li>
