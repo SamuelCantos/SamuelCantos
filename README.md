@@ -14,6 +14,13 @@
   
   
 <p>Actualmente estoy buscando mi primer oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.</p>
+  
+  
+ <ul>
+<h4>📫 Contacto:</h4>
+<li>📧 <a href="https://www.linkedin.com/in/samuel-cantos-perez-4811a1208/"> LinkedIn </a> </li>
+<li>📜<a href="https://www.linkedin.com/feed/update/urn:li:activity:6858446256658796544/"> CV </a> </li>
+ </ul>
    
   
 </ul>
@@ -24,11 +31,6 @@
 
 
 
- <ul>
-<h4>📫 Contacto:</h4>
-<li>📧 <a href="https://www.linkedin.com/in/samuel-cantos-perez-4811a1208/"> LinkedIn </a> </li>
-<li>📜<a href="https://www.linkedin.com/feed/update/urn:li:activity:6858446256658796544/"> CV </a> </li>
- </ul>
  
  <h1 align="left">Skills:</h1>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
