@@ -8,7 +8,7 @@
   <li>💻 Front-End: React, Redux</li>
   <li>⚙️ Back-End: Node.JS, Express.Js, Postman</li>
   <li>💬 Otras: Git, SCRUM, Slack, Trello
-                CSS, HTML, Bootstrap, PostgreSQL
+                CSS, HTML, Bootstrap, PostgreSQL,
                 MongoDB, MongoDB Atlas  </li>
  
    
