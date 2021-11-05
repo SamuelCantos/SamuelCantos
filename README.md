@@ -10,10 +10,16 @@
   <li>💬 Otras: Git, SCRUM, Slack, Trello
                 CSS, HTML, Bootstrap, PostgreSQL,
                 MongoDB, MongoDB Atlas  </li>
+  
+<br></br><br></br><br></br>
+<br></br><br></br><br></br>
  
   
   
 <p>Actualmente estoy buscando mi primer oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.</p>
+
+<br></br><br></br><br></br>
+<br></br><br></br><br></br>
   
   
  <ul>
