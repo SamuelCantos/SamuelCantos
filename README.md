@@ -19,8 +19,7 @@
 
   <br></br><br></br><br></br>
   <br></br><br></br><br></br>
-  <br></br><br></br><br></br>
-  
+ 
  <ul>
 <h4>📫 Contacto:</h4>
 <li>📧 <a href="https://www.linkedin.com/in/samuel-cantos-perez-4811a1208/"> LinkedIn </a> </li>
