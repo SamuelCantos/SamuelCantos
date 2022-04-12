@@ -23,7 +23,7 @@
  <ul>
 <h4>📫 Contacto:</h4>
 <li>📧 <a href="https://www.linkedin.com/in/samuel-cantos-perez-4811a1208/"> LinkedIn </a> </li>
-<li>📜<a href="https://www.linkedin.com/feed/update/urn:li:activity:6858446256658796544/"> CV </a> </li>
+<li>📜<a href=https://www.linkedin.com/posts/samuel-cantos-4811a1208_baeqsquedalaboral-oportunidad-cv-activity-6905580750419415041-9sNe?utm_source=linkedin_share&utm_medium=member_desktop_web> CV </a> </li>
  </ul>
    
   
