@@ -14,7 +14,7 @@
  
   
   
-<p>Actualmente estoy buscando mi primer oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo. Mientras tanto estoy dedicando mi tiempo a un proyecto E-Commerce en donde puedes adquirir bebidas con y sin alcohol. Para esto con mi grupo utilizamos las siguientes tecnologias:  ReactJS, Redux, CSS, Bootstrap, Node.js, Express, MongoDB and Mongoose </p>
+<p>Actualmente estoy buscando mi primer oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo. Estoy graduado de Henry hace unos meses ya y mientras sigo trabajando en diferentes proyectos y adquiriendo nuevas teconlogias y habilidades. Aqui una pequeña muestra de un ecommerce de bebidas </p>
 <img align="left" src= "https://user-images.githubusercontent.com/74629753/140514947-5115af1e-445e-4fcd-9305-50bdb1670e4a.png" height="250px" width="380px" /> <img align="right" src= "https://user-images.githubusercontent.com/74629753/140514972-86640b79-94eb-45dd-abaf-3004885b19fc.png" height="250px" width="380px" /> 
 
   <br></br><br></br><br></br>
@@ -24,6 +24,8 @@
 <h4>📫 Contacto:</h4>
 <li>📧 <a target="_blank" href=https://www.linkedin.com/in/samuel-cantos-4811a1208/> LinkedIn </a> </li>
 <li>📜<a target="_blank" href=https://www.linkedin.com/posts/samuel-cantos-4811a1208_baeqsquedalaboral-oportunidad-cv-activity-6905580750419415041-9sNe?utm_source=linkedin_share&utm_medium=member_desktop_web> CV </a> </li>
+<li>📧 <a target="_blank" href=https://samuel-cantos.vercel.app//> Portafolios </a> </li>
+
  </ul>
    
   
