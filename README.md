@@ -24,7 +24,7 @@
 <h4>📫 Contacto:</h4>
 <li>📧 <a target="_blank" href=https://www.linkedin.com/in/samuel-cantos-4811a1208/> LinkedIn </a> </li>
 <li>📜<a target="_blank" href=https://www.linkedin.com/posts/samuel-cantos-4811a1208_baeqsquedalaboral-oportunidad-cv-activity-6905580750419415041-9sNe?utm_source=linkedin_share&utm_medium=member_desktop_web> CV </a> </li>
-<li>📧<a target="_blank" href=https://samuel-cantos.vercel.app> Portafolios </a> </li>
+<li>📧<a target="_blank" href="https://samuel-cantos-git-master-samuelcantos.vercel.app/"> Portafolios </a> </li>
 
  </ul>
    
