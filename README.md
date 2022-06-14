@@ -14,8 +14,8 @@
  
   
   
-<p>Actualmente estoy buscando mi primer oportunidad que ayude a mi desarrollo personal. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo. Estoy graduado de Henry hace unos meses ya y mientras sigo trabajando en diferentes proyectos y adquiriendo nuevas teconlogias y habilidades. Aqui una pequeña muestra de un ecommerce de bebidas </p>
-<img align="left" src= "https://user-images.githubusercontent.com/74629753/140514947-5115af1e-445e-4fcd-9305-50bdb1670e4a.png" height="250px" width="380px" /> <img align="right" src= "https://user-images.githubusercontent.com/74629753/140514972-86640b79-94eb-45dd-abaf-3004885b19fc.png" height="250px" width="380px" /> 
+<p>Actualmente estoy buscando una empresa que me permita desarrollar de manera full time y cumplir con mis objetivos. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo. Estoy graduado de Henry hace unos meses  y mientras sigo trabajando en diferentes proyectos y adquiriendo nuevas teconlogias y habilidades. Aqui una pequeña muestra de una academia online hecha con mi equipo. </p>
+<img align="left" src= "https://gyazo.com/ab88c7ede5debfa0ae35f08a93e37db0" height="250px" width="380px" /> <img align="right" src= "https://user-images.githubusercontent.com/74629753/140514972-86640b79-94eb-45dd-abaf-3004885b19fc.png" height="250px" width="380px" /> 
 
   <br></br><br></br><br></br>
   <br></br><br></br><br></br>
