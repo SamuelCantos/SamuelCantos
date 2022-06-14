@@ -1,11 +1,11 @@
 <h1>Hola 🙋‍♂️</h1>
 
-<p>Mi nombre es Samuel Cantos, tengo 20 años y soy desarrollador Fullstack JavaScript, apasionado por el Front-end. Realicé un bootcamp de más de 900 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack.</p>
+<p>Mi nombre es Samuel Cantos, tengo 20 años y soy desarrollador Fullstack. Realicé un bootcamp de más de 900 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack. Ademas de años estudiando de manera autonoma y participando en diferentes tipos de proyectos.</p>
 
 <h4>🧠 Habilidades:</h4>
 <ul>
   <li>🌟Lenguaje:JavaScript </li>
-  <li>💻 Front-End: React, Redux</li>
+  <li>💻 Front-End: React, Redux, Next</li>
   <li>⚙️ Back-End: Node.JS, Express.Js, Postman</li>
   <li>💬 Otras: Git, SCRUM, Slack, Trello
                 CSS, HTML, Bootstrap, PostgreSQL,
