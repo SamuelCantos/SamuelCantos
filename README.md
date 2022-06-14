@@ -22,8 +22,7 @@
  <img  src= "https://i.gyazo.com/c316edf4b5dc2219b63ef3c2a9bc77b6.png" height="500px" width="1000px" /> 
 
 
-  <br></br><br></br><br></br>
-  <br></br><br></br><br></br>
+<hr></hr>
  
  <ul>
 <h4>📫 Contacto:</h4>
