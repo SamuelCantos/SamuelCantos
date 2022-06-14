@@ -15,12 +15,11 @@
   
   
 <p>Actualmente estoy buscando una empresa que me permita desarrollar de manera full time y cumplir con mis objetivos. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo. Estoy graduado de Henry hace unos meses  y mientras sigo trabajando en diferentes proyectos y adquiriendo nuevas teconlogias y habilidades. Aqui una pequeña muestra de una academia online hecha con mi equipo. </p>
-<img align="left" src="https://i.gyazo.com/ab88c7ede5debfa0ae35f08a93e37db0.png" height="500px" width="900px" /> 
+<img align="left" src="https://i.gyazo.com/ab88c7ede5debfa0ae35f08a93e37db0.png" height="500px" width="1000px" /> 
   
-   <br></br><br></br><br></br>
-   <br></br><br></br><br></br>
+  <hr></hr>
    
- <img align="right" src= "https://i.gyazo.com/c316edf4b5dc2219b63ef3c2a9bc77b6.png" height="500px" width="900px" /> 
+ <img align="right" src= "https://i.gyazo.com/c316edf4b5dc2219b63ef3c2a9bc77b6.png" height="500px" width="1000px" /> 
 
 
   <br></br><br></br><br></br>
