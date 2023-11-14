@@ -1,6 +1,6 @@
 <h1>Hola 🙋‍♂️</h1>
 
-<p>Mi nombre es Samuel Cantos, tengo 20 años y soy desarrollador Fullstack. Realicé un bootcamp de más de 900 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack. Ademas de años estudiando de manera autonoma y participando en diferentes tipos de proyectos.</p>
+<p>Mi nombre es Samuel Cantos, tengo 22 años y soy desarrollador Fullstack. Realicé un bootcamp de más de 900 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack. Ademas de años estudiando de manera autonoma y participando en diferentes tipos de proyectos.</p>
 
 <h4>🧠 Habilidades:</h4>
 <ul>
