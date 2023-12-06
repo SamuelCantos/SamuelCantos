@@ -1,6 +1,6 @@
-<h1>Hola 🙋‍♂️</h1>
+<h1>Hello 🙋‍♂️</h1>
 
-<p>Hello, I'm Samuel Augusto Cantos, a 22-year-old passionate about programming. I began exploring the world of coding at the age of 17 with HTML and CSS, which marked the beginning of my journey in this field.
+<p> I'm Samuel Augusto Cantos, a 22-year-old passionate about programming. I began exploring the world of coding at the age of 17 with HTML and CSS, which marked the beginning of my journey in this field.
 
 My drive to learn and improve led me to complete a comprehensive Full Stack Development course at Henry. Through this program, I earned the title of Full Stack Developer, gaining a thorough understanding of both front-end and back-end web application development.
 
