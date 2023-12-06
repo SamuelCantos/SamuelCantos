@@ -17,10 +17,7 @@ After graduating, I decided to deepen my knowledge in React by taking certified 
                 CSS, HTML, Bootstrap, PostgreSQL,
                 MongoDB, MongoDB Atlas  </li>
 
-<br></br><br></br><br></br><br></br><br></br><br></br>
-  
- 
-  
+<br></br><br></br
   
 <p>Currently, I'm immersed in studying Python, aiming to use it in Artificial Intelligence software development. My focus is on leveraging Python's capabilities to craft innovative solutions and implement AI into my projects.
 
