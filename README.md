@@ -16,6 +16,9 @@ After graduating, I decided to deepen my knowledge in React by taking certified 
   <li>💬 Othres: Git, SCRUM, Slack, Trello
                 CSS, HTML, Bootstrap, PostgreSQL,
                 MongoDB, MongoDB Atlas  </li>
+
+
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
   
  
   
