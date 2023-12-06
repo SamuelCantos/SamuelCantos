@@ -1,20 +1,29 @@
 <h1>Hola 🙋‍♂️</h1>
 
-<p>Mi nombre es Samuel Cantos, tengo 22 años y soy desarrollador Fullstack. Realicé un bootcamp de más de 900 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack. Ademas de años estudiando de manera autonoma y participando en diferentes tipos de proyectos.</p>
+<p>Hello, I'm Samuel Augusto Cantos, a 22-year-old passionate about programming. I began exploring the world of coding at the age of 17 with HTML and CSS, which marked the beginning of my journey in this field.
 
-<h4>🧠 Habilidades:</h4>
+My drive to learn and improve led me to complete a comprehensive Full Stack Development course at Henry. Through this program, I earned the title of Full Stack Developer, gaining a thorough understanding of both front-end and back-end web application development.
+
+After graduating, I decided to deepen my knowledge in React by taking certified courses on platforms like Udemy. This allowed me to master this powerful JavaScript library and create advanced, efficient user interfaces.
+
+</p>
+
+<h4>🧠 Skills:</h4>
 <ul>
-  <li>🌟Lenguaje:JavaScript </li>
+  <li>🌟Lenguage:JavaScript, Python </li>
   <li>💻 Front-End: React, Redux, Next</li>
   <li>⚙️ Back-End: Node.JS, Express.Js, Postman</li>
-  <li>💬 Otras: Git, SCRUM, Slack, Trello
+  <li>💬 Othres: Git, SCRUM, Slack, Trello
                 CSS, HTML, Bootstrap, PostgreSQL,
                 MongoDB, MongoDB Atlas  </li>
   
  
   
   
-<p>Actualmente estoy buscando una empresa que me permita desarrollar de manera full time y cumplir con mis objetivos. Soy una persona proactiva, creativa, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo. Estoy graduado de Henry hace unos meses  y mientras sigo trabajando en diferentes proyectos y adquiriendo nuevas teconlogias y habilidades. Aqui una pequeña muestra de una academia online hecha con mi equipo. </p>
+<p>Currently, I'm immersed in studying Python, aiming to use it in Artificial Intelligence software development. My focus is on leveraging Python's capabilities to craft innovative solutions and implement AI into my projects.
+
+My passion for programming is fueled by a constant desire to learn and create impactful technological solutions. I'm always seeking new challenges and technologies to expand my skills and contribute to the world of software development. </p>
+
 <img  src="https://i.gyazo.com/ab88c7ede5debfa0ae35f08a93e37db0.png" height="500px" width="1000px" /> 
   
   <hr></hr>
