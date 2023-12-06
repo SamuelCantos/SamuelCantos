@@ -17,8 +17,7 @@ After graduating, I decided to deepen my knowledge in React by taking certified 
                 CSS, HTML, Bootstrap, PostgreSQL,
                 MongoDB, MongoDB Atlas  </li>
 
-
-<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+<br></br><br></br><br></br><br></br><br></br><br></br>
   
  
   
