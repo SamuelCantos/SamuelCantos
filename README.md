@@ -25,9 +25,9 @@ My passion for programming is fueled by a constant desire to learn and create im
 
  
  <ul>
-<h4>📫 Contacto:</h4>
+<h4>📫 Contaco:</h4>
 <li>📧 <a target="_blank" href=https://www.linkedin.com/in/samuel-cantos-4811a1208/> LinkedIn </a> </li>
-<li>📧<a target="_blank" href="https://samuel-cantos-git-master-samuelcantos.vercel.app/"> Portafolios </a> </li>
+<li>📧<a target="_blank" href="https://samuel-cantos-git-master-samuelcantos.vercel.app/"> Personal web site </a> </li>
  </ul>
    
   
