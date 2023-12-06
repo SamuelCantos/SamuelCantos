@@ -24,14 +24,6 @@ After graduating, I decided to deepen my knowledge in React by taking certified 
 
 My passion for programming is fueled by a constant desire to learn and create impactful technological solutions. I'm always seeking new challenges and technologies to expand my skills and contribute to the world of software development. </p>
 
-<img  src="https://i.gyazo.com/ab88c7ede5debfa0ae35f08a93e37db0.png" height="500px" width="1000px" /> 
-  
-  <hr></hr>
-   
- <img  src= "https://i.gyazo.com/c316edf4b5dc2219b63ef3c2a9bc77b6.png" height="500px" width="1000px" /> 
-
-
-<hr></hr>
  
  <ul>
 <h4>📫 Contacto:</h4>
